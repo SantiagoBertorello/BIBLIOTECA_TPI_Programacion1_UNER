@@ -1,5 +1,4 @@
-# BIBLIOTECA_TPI_Programacion1_UNER
-
+# TPintegrador_Programacion1_UNER
 # Sistema de Gestión de Bibliotecas 📚
 
 ## Objetivo
